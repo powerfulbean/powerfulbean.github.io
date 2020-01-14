@@ -50,9 +50,9 @@
     <link href="http://yoursite.com/2019/10/13/StellarBrainwav/"/>
     <id>http://yoursite.com/2019/10/13/StellarBrainwav/</id>
     <published>2019-10-14T01:12:00.000Z</published>
-    <updated>2020-01-14T02:27:01.863Z</updated>
+    <updated>2020-01-14T02:29:58.140Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>This open source software allow brain computer interface researchers to easily manage their own datasets and enable them to connect the EEGLab and MNE with several commonly used data processing libraries such as Scikit-learn and Keras. The final goal of this project is to reduce the researchers’ programming load and accelerate their study.</p><p><a href="https://github.com/powerfulbean/StellarBrainwav" target="_blank" rel="noopener">Github</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>This open source software allow <u>Brain Computer Interface</u> researchers to easily manage their own datasets and enable them to connect the EEGLab and MNE with several commonly used data processing libraries such as Scikit-learn and Keras. The final goal of this project is to reduce the researchers’ programming load and accelerate their study.</p><p><a href="https://github.com/powerfulbean/StellarBrainwav" target="_blank" rel="noopener">Github</a></p>]]></content>
     
     <summary type="html">
     
