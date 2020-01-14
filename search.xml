@@ -4,6 +4,66 @@
   
     
     <entry>
+      <title>Auditory Attention and Visual Attention (Brain Computer Interface)</title>
+      <link href="/2019/11/01/AuditoryVisualAttention/"/>
+      <url>/2019/11/01/AuditoryVisualAttention/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>This research is a part of the <a href="https://www.media.mit.edu/projects/attentivu/overview/" target="_blank" rel="noopener">AttentivU</a> project of the Fluid Interface Group in MIT Media Lab. </p><p>Based on the AttentivU device, I did research about models’ modification and validation about Auditory Attention and Visual Attention of human beings. </p><p>For now, at least two papers are being prepared.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Research </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Brain Computer Interface </tag>
+            
+            <tag> Auditory Attention </tag>
+            
+            <tag> Visual Attention </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>StellarBrainwav</title>
+      <link href="/2019/10/13/StellarBrainwav/"/>
+      <url>/2019/10/13/StellarBrainwav/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>This open source software allow brain computer interface researchers to easily manage their own datasets and enable them to connect the EEGLab and MNE with several commonly used data processing libraries such as Scikit-learn and Keras. The final goal of this project is to reduce the researchers’ programming load and accelerate their study.</p><p><a href="https://github.com/powerfulbean/StellarBrainwav" target="_blank" rel="noopener">Github</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Project </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Brain Computer Interface </tag>
+            
+            <tag> Python </tag>
+            
+            <tag> Machine Learning </tag>
+            
+            <tag> Framework </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>A WebAR App For National Day</title>
       <link href="/2019/10/01/WebARForNationalDay/"/>
       <url>/2019/10/01/WebARForNationalDay/</url>
