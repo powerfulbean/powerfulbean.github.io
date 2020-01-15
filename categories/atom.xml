@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JIN DOU</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-01-14T02:11:34.534Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jin Dou</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Auditory Attention and Visual Attention (Brain Computer Interface)</title>
+    <link href="http://yoursite.com/2019/11/01/AuditoryVisualAttention/"/>
+    <id>http://yoursite.com/2019/11/01/AuditoryVisualAttention/</id>
+    <published>2019-11-02T00:57:12.000Z</published>
+    <updated>2020-01-14T02:11:34.534Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>This research is a part of the <a href="https://www.media.mit.edu/projects/attentivu/overview/" target="_blank" rel="noopener">AttentivU</a> project of the Fluid Interface Group in MIT Media Lab. </p><p>Based on the AttentivU device, I did research about models’ modification and validation about Auditory Attention and Visual Attention of human beings. </p><p>For now, at least two papers are being prepared.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;h2 id=&quot;Background&quot;&gt;&lt;a href=&quot;#Bac
+      
+    
+    </summary>
+    
+      <category term="Research" scheme="http://yoursite.com/categories/Research/"/>
+    
+    
+      <category term="Brain Computer Interface" scheme="http://yoursite.com/tags/Brain-Computer-Interface/"/>
+    
+      <category term="Auditory Attention" scheme="http://yoursite.com/tags/Auditory-Attention/"/>
+    
+      <category term="Visual Attention" scheme="http://yoursite.com/tags/Visual-Attention/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>StellarBrainwav</title>
+    <link href="http://yoursite.com/2019/10/13/StellarBrainwav/"/>
+    <id>http://yoursite.com/2019/10/13/StellarBrainwav/</id>
+    <published>2019-10-14T01:12:00.000Z</published>
+    <updated>2020-01-15T00:33:48.230Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>This open source software allow <u>Brain Computer Interface</u> researchers to easily manage their own datasets and enable them to connect the EEGLab and MNE with several commonly used data processing libraries such as Scikit-learn and Keras. The final goal of this project is to reduce the researchers’ programming load and accelerate their study.</p><p><a href="https://github.com/powerfulbean/StellarBrainwav" target="_blank" rel="noopener">Github</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;This open source software allo
+      
+    
+    </summary>
+    
+      <category term="Project" scheme="http://yoursite.com/categories/Project/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+      <category term="Machine Learning" scheme="http://yoursite.com/tags/Machine-Learning/"/>
+    
+      <category term="Framework" scheme="http://yoursite.com/tags/Framework/"/>
+    
+      <category term="Brain Computer Interface" scheme="http://yoursite.com/tags/Brain-Computer-Interface/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A WebAR App For National Day</title>
+    <link href="http://yoursite.com/2019/10/01/WebARForNationalDay/"/>
+    <id>http://yoursite.com/2019/10/01/WebARForNationalDay/</id>
+    <published>2019-10-01T19:31:35.000Z</published>
+    <updated>2020-01-03T02:00:32.897Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>This is a special project for celebrating the National Day. This application provides users with ability to take photo with their national flag at everywhere. </p><p><strong>Push the camera button and you can take a photo</strong></p><p>Camera button:</p><img src="/postImages/8.png" width="320"> <p>Result:</p><img src="/postImages/7.png" width="320"> <h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><div class="video-container"><iframe src="//www.youtube.com/embed/cVgoHbygn0I" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;This is a special project for 
+      
+    
+    </summary>
+    
+      <category term="Project" scheme="http://yoursite.com/categories/Project/"/>
+    
+    
+      <category term="AR" scheme="http://yoursite.com/tags/AR/"/>
+    
+      <category term="Web" scheme="http://yoursite.com/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Multi-User Scientific Visualization Based on MR</title>
+    <link href="http://yoursite.com/2018/11/15/MRForMulUserSciVis/"/>
+    <id>http://yoursite.com/2018/11/15/MRForMulUserSciVis/</id>
+    <published>2018-11-15T20:33:02.000Z</published>
+    <updated>2019-12-27T04:34:34.880Z</updated>
+    
+    <content type="html"><![CDATA[<div class="video-container"><iframe src="//www.youtube.com/embed/UVFX6inx_Hw" frameborder="0" allowfullscreen></iframe></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/UVFX6inx_Hw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+      
+    
+    </summary>
+    
+      <category term="Project" scheme="http://yoursite.com/categories/Project/"/>
+    
+    
+      <category term="MR" scheme="http://yoursite.com/tags/MR/"/>
+    
+      <category term="Unity" scheme="http://yoursite.com/tags/Unity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>USED CELLULAR AUTOMATON TO SIMULATE PASSENGER THROUGHPUT AT AIRPORT SECURITY CHECKPOINTS</title>
+    <link href="http://yoursite.com/2017/01/10/AirportPassengerThroughputSimulation/"/>
+    <id>http://yoursite.com/2017/01/10/AirportPassengerThroughputSimulation/</id>
+    <published>2017-01-11T05:52:20.000Z</published>
+    <updated>2020-01-01T16:40:17.863Z</updated>
+    
+    <content type="html"><![CDATA[<p>The main purpose of this project is to develop a extensible framework helping users build a module that simulates the passenger throughput at airport security checkpoints in United States.</p><h1 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h1><p><strong>Code</strong>: <a href="https://github.com/powerfulbean/AirportSimulationBasedOnCellularAutomaton" target="_blank" rel="noopener">https://github.com/powerfulbean/AirportSimulationBasedOnCellularAutomaton</a></p><h1 id="Articles"><a href="#Articles" class="headerlink" title="Articles"></a>Articles</h1><p><strong>Detailed Article</strong>: <a href="https://powerfulbean.github.io/source/untjdvtzpclu.pdf" target="_blank" rel="noopener">Used Cellular Automaton to Simulate Throughput at Airport Checkpoints</a></p><h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><h2 id="Structure-of-this-Cellular-Automaton"><a href="#Structure-of-this-Cellular-Automaton" class="headerlink" title="Structure of this Cellular Automaton"></a>Structure of this Cellular Automaton</h2><p>I designed the cellular automaton with two layers, presentation layer and calculation layer, to make it more extensible.</p><p>In details, the cellular automaton consists of several parts which are Space-Matrix-Creation part, SpaceMatrix-Display part, Behavior-simulation part, System-parameters, Data-statistic part, and it also has global counting vectors and global variables which build connection between different files. </p><p><strong>Basic Setting:</strong></p><ul><li>If a cellular arrives in a position, the value of the position plus one, and if a cellular leaves a<br>position, the value of the position minus one. </li><li>The value of normal blank area is 0, the value of ID-check area is 2, the value of Check-point<br>area is 3, the value of Bag-check area is -888, the value of bags storage area is -886, the value of<br>Forbidden area is -900, the value of Special-blank area is -890. </li><li>One loop of the program stands for one second.</li></ul><p><strong>Space-matrix-creation:</strong></p><p>This part divides the whole space into two parts of areas which are Pre-Check area and regular check area. Those two areas are also divided into several subareas which are Forbidden area, Special blank area which is used as places where cellular can find the lane which contents fewer people, and Checkpoint area, bags storage area. To create the matrix, this creation-part will give value to every cell in those areas which are mentioned above.</p><p><strong>Space-display part:</strong></p><p>This part divides the whole matrix into two areas, ID-check area and Security-check area which is in the south of the ID-check area. It will show every cell of the Space-matrix in different colors considering of their positions and values.</p><p><strong>Behavior-simulation part:</strong></p><p>Its basic function is to make the cellular move forward, plus, it also contains logical judgement functions and a simple function which can help cellular find the lane which contents less people and help it direct it’s way to it. With the help of these functions, cellular can find the way which costs the shortest time to pass the check-point relatively and the model also can better simulate conditions happening in real airport. </p><p><strong>Global-count vectors:</strong></p><p>They count the time that cellular has spent on waiting, they can also store the important values which are used in final analysis.</p><p><strong>Global variables:</strong><br>They serve the role to transmit important parameters to functions from the main script file. </p><p><strong>Probability distribution controlled waiting-time:</strong><br>In every loop, in terms of a cellular that are waiting for the finish of a specific event, the value of one cell which belongs to a Global-count vector and counts the waiting-time of this cellular, will be changed into a probability value. Then, the program will generate a random number, and if the random number is smaller than the value, we can say that the event is over and this cellular can move to the other cells. This model describes the process of passengers entering the airport, waiting in line for both security check and ID-Check. Here we distinguish the normal passage and the pre-check one. </p><h2 id="Visualization"><a href="#Visualization" class="headerlink" title="Visualization"></a>Visualization</h2><p>The structure of this model is highly flexible, users can easily modify it by changing several global parameters.</p><img src="https://powerfulbean.github.io/img/cellular_automaton_airport_doujin.gif"> <h3 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h3><img src="/postImages/1.png" width="320" height="435"> <h3 id="Details"><a href="#Details" class="headerlink" title="Details"></a>Details</h3><p>Zone A:</p><img src="/postImages/2.png" width="320"> <br><p>Zone B &amp; C:</p><img src="/postImages/3.png" width="420"> <h2 id="Result"><a href="#Result" class="headerlink" title="Result"></a>Result</h2><p>Real-time number of people in each area:</p><img src="/postImages/4.png" width="320"> <br><p>Real-time number of people in each area after optimization:</p><img src="/postImages/5.png" width="340"> ]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;The main purpose of this project is to develop a extensible framework helping users build a module that simulates the passenger throughpu
+      
+    
+    </summary>
+    
+      <category term="Project" scheme="http://yoursite.com/categories/Project/"/>
+    
+    
+      <category term="MATLAB" scheme="http://yoursite.com/tags/MATLAB/"/>
+    
+      <category term="Cellular Automaton" scheme="http://yoursite.com/tags/Cellular-Automaton/"/>
+    
+  </entry>
+  
+</feed>
