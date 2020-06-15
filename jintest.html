@@ -1,0 +1,16 @@
+<html>
+	<meta charset="UTF-8">
+	<head>
+	</head>
+	<script>
+	var itemHttp = new XMLHttpRequest();
+	var item_url = "http://www.nature.com/subjects/brain-machine-interface.rss";
+	itemHttp.open("GET", item_url, true);
+	itemHttp.onreadystatechange = function(){
+		if(itemHttp.readyState == 4 && itemHttp.status == 200) {
+			var detailjson = itemHttp.responseText;
+		}
+	}
+	itemHttp.send();
+	</script>
+</html>
