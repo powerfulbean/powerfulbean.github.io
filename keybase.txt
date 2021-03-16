@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jindou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://powerfulbean.github.io
+  * I am jindou (https://keybase.io/jindou) on keybase.
+  * I have a public key ASANc2h0z6-eY2SPRdgcGIesfVM6597QE8dh3pJW2pFuSQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200d736874cfaf9e63648f45d81c1887ac7d533ae7ded013c761de9256da916e490a",
+      "host": "keybase.io",
+      "kid": "01200d736874cfaf9e63648f45d81c1887ac7d533ae7ded013c761de9256da916e490a",
+      "uid": "44e7741df57c89deff0c5070b99d1019",
+      "username": "jindou"
+    },
+    "merkle_root": {
+      "ctime": 1615912054,
+      "hash": "35e11d9358e1e584d4188cd2ba7d5964c919b7c5c222bd05c2aa30e1434708f171d661a53cb615ec25941e04c91f068975b78fe105a8441f736ce39faaebb766",
+      "hash_meta": "acc684cfc5dced6531278a6dfc7a7369f63eb9184aca11502d97f0904dffdc86",
+      "seqno": 19389026
+    },
+    "service": {
+      "entropy": "0Y9UPq9fMkDnqTawKGlt5pfV",
+      "hostname": "powerfulbean.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1615912064,
+  "expire_in": 504576000,
+  "prev": "4d8b17de8c4b1e9ef504e3a13ba8a8a5446b8a0deedd3c45cb81374f9075262c",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDXNodM+vnmNkj0XYHBiHrH1TOufe0BPHYd6SVtqRbkkKp3BheWxvYWTESpcCCMQgTYsX3oxLHp71BOOhO6iopURrig3u3TxFy4E3T5B1JizEIIVLitqvhiljjRRdnSQP44wT9HNxexUvnNuYaDH4m53NAgHCo3NpZ8RA5i3IAD+uq3RRGlKagEHcvnUx50QbC6hdMqv+UEfukjZYzUiIrVeMo6v2IWqL35Xrqasorf4NZBQmSxov0p1VCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL3d1RvVHYTw5XOYnVedsT7fpTctCdLw771d+ayFRlfAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jindou
+
+==================================================================
