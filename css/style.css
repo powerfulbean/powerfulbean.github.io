@@ -1,0 +1,139 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, button, input, textarea {
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+aside.sidebar {
+    width: 200px;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    height: 100vh;
+    position: fixed;
+    overflow-y: auto;
+}
+
+main {
+    flex-grow: 1;
+    margin-left: 220px;
+    padding: 20px;
+}
+
+.profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px; /* Spacing below the image */
+}
+
+.profile h3 {
+    font-size: 2rem; /* Increase the font-size as desired */
+    text-align: left; /* Align the text to the left */
+    margin: 10px 0; /* Adjust top and bottom margin as needed */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px; /* Spacing below the nav */
+}
+
+nav ul li {
+    margin-bottom: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+}
+
+/* .social-links { */
+    /* display: flex; */
+    /* justify-content: center; Center icons horizontally */
+    /* gap: 20px; Spacing between icons */
+    /* margin-bottom: 20px; Spacing below the icons */
+/* } */
+
+.social-links {
+    display: flex;
+    align-items: center; /* Align the icons vertically in the center */
+    gap: 10px; /* Space between the icons */
+}
+
+.social-links a {
+    color: #333;
+    font-size: 1.5rem;
+}
+
+aside.sidebar {
+    /* ... other styles ... */
+    text-align: left; /* Aligns everything in the sidebar to the left */
+}
+
+.section-heading {
+    font-size: 1.5rem;
+    margin-bottom: 20px; /* Spacing below section heading */
+    display: block; /* Use block to allow the full width line */
+    padding-bottom: 5px; /* Space above the line */
+    border-bottom: 1px solid #e1e1e1; /* Consistent line styling with entries */
+    width: calc(100% - 40px); /* Adjusts width based on parent padding */
+    box-sizing: border-box; /* Includes padding and border in the element's width */
+}
+
+#projectResearch {
+    margin-top: 30px; /* 1.5 times the margin-bottom of .entry */
+}
+
+.section-content {
+    margin-bottom: 30px; /* Spacing below section content */
+}
+
+.filter-controls {
+    margin: 20px 0 30px; /* Spacing above and below the filter controls */
+    display: flex;
+    gap: 10px; /* Spacing between filter tags */
+}
+
+.filter {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background-color: #f4f4f9;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.filter:hover, .filter.active {
+    background-color: #e1e1e1;
+    color: #333;
+}
+
+.entry {
+    padding-bottom: 20px; /* Spacing within each entry */
+    margin-bottom: 20px; /* Spacing between entries */
+}
+
+/* Additional entry details styling goes here */
