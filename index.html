@@ -11,7 +11,7 @@
     <div class="container">
         <aside class="sidebar">
             <div class="profile">
-                <img src="path_to_your_image.jpg" alt="Your Name">
+                <img src="res/EEGJin.jpg" alt="Your Name">
                 <h3>Jin Dou</h3>
             </div>
             <div class="social-links">
@@ -36,21 +36,39 @@
                 <div class="filter-controls">
                     <span class="filter" data-filter="all">All</span>
                     <span class="filter" data-filter="neuroscience">Neuroscience</span>
-                    <span class="filter" data-filter="ai">AI</span>
-                    <span class="filter" data-filter="machine-learning">Machine Learning</span>
+                    <span class="filter" data-filter="dl">Deep Learning</span>
+                    <span class="filter" data-filter="ml">Machine Learning</span>
+					<span class="filter" data-filter="vr">Virtual Reality</span>
                 </div>
                 <div class="content">
-                    <div class="entry" data-tags="neuroscience">
-                        <h3>Neuroscience Study</h3>
-                        <p>Details about the neuroscience study.</p>
+                    <div class="entry" data-tags="neuroscience,ml">
+						<img src="res/mtrf.png" alt="Project Thumbnail" class="entry-thumbnail">
+						<div class="entry-text">
+							<h3 class="entry-title"> mTRFpy: A python package for temporal response function analysis.</h3>
+							<p class="entry-description">
+								Bialas, O., Dou, J., & Lalor, E. C. (2023). mtrfpy: A python package for temporal response function analysis. Journal of Open Source Software, 8(89), 5657.
+							</p>
+							<div class="entry-links">
+								<a href="https://joss.theoj.org/papers/10.21105/joss.05657" target="_blank">paper</a>
+								<a href="https://github.com/powerfulbean/mTRFpy" target="_blank">code</a>
+							</div>
+						</div>
                     </div>
-                    <div class="entry" data-tags="ai">
-                        <h3>AI Project</h3>
-                        <p>Details about the AI project.</p>
+                    <div class="entry" data-tags="dl, ml, neuroscience">
+						<div class="entry-text">
+							<h3 class="entry-title"> Dynamic modeling of eeg responses to natural speech reveals earlier processing of predictable words.</h3>
+							<p class="entry-description"> Dou, J., Anderson, A. J., White, A., Norman-Haignere, S., & Lalor, E. C. (2024). Dynamic modeling of eeg responses to natural speech reveals earlier processing of predictable words. bioRxiv, 2024–04.</p>
+						</div>
                     </div>
-                    <div class="entry" data-tags="machine-learning">
-                        <h3>Machine Learning Application</h3>
-                        <p>Details about the machine learning application.</p>
+                    <div class="entry" data-tags="vr">
+						<div class="entry-text">
+							<h3 class="entry-title">3D speech corpuses in a virtual booth</h3>
+							<p class="entry-description">A Unity3D project that integrates 360 virtual reality speech corpuses into a virtual booth for audiovisual research.</p>
+							<div class="entry-links">
+								<a href="/res/VRSpeechCorpusBoothExample.mp4" target="_blank">video demo</a>
+								<a href="https://github.com/maddoxlab/VRSpeechCorpusBooth" target="_blank">code</a>
+							</div>
+						</div>
                     </div>
                     <!-- Additional entries -->
                 </div>

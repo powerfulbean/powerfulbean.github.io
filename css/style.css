@@ -132,8 +132,46 @@ aside.sidebar {
 }
 
 .entry {
-    padding-bottom: 20px; /* Spacing within each entry */
-    margin-bottom: 20px; /* Spacing between entries */
+    display: flex;
+    align-items: flex-start; /* Aligns the thumbnail and text at their top edges */
+    margin-bottom: 30px; /* Margin-bottom is now 1.5 times larger than the margin between two adjacent entries */
+    padding-bottom: 20px; /* Space above the horizontal line */
+    border-bottom: 1px solid #e1e1e1; /* Horizontal line below the entry */
+}
+
+.entry-thumbnail {
+    height: 100px; /* Fixed height for the thumbnail */
+    width: auto; /* Width is set to auto to preserve aspect ratio */
+    margin-right: 20px; /* Spacing between the thumbnail and the text */
+}
+
+.entry-text {
+    flex-grow: 1;
+}
+
+.entry-title {
+    font-weight: bold;
+    margin-bottom: 5px; /* Spacing below the title */
+}
+
+.entry-description {
+    color: #555; /* Dark grey or choose your preferred color */
+}
+
+.entry-links {
+    margin-top: 5px; /* Space above the links */
+}
+
+.entry-links a {
+    text-decoration: none; /* No underline by default */
+    color: #0066cc; /* Color for the link */
+    margin-right: 10px; /* Spacing between the links */
+    border-bottom: 1px dashed #0066cc; /* Optional dashed underline for links */
+    padding-bottom: 1px; /* Small padding to offset the dashed line slightly */
+}
+
+.entry-links a:hover {
+    border-bottom: 1px solid #0066cc; /* Solid underline on hover */
 }
 
 /* Additional entry details styling goes here */
