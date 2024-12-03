@@ -140,7 +140,7 @@ aside.sidebar {
 }
 
 .entry-thumbnail {
-    height: 100px; /* Fixed height for the thumbnail */
+    height: 150px; /* Fixed height for the thumbnail */
     width: auto; /* Width is set to auto to preserve aspect ratio */
     margin-right: 20px; /* Spacing between the thumbnail and the text */
 }
