@@ -49,7 +49,7 @@ main {
 }
 
 .profile h3 {
-    font-size: 2rem; /* Increase the font-size as desired */
+    font-size: 1.5rem; /* Increase the font-size as desired */
     text-align: left; /* Align the text to the left */
     margin: 10px 0; /* Adjust top and bottom margin as needed */
 }
