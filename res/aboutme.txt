@@ -1,1 +1,1 @@
-Hi, I am currently a PhD candidate working at the <a href="https://www.urmc.rochester.edu/labs/lalor">Lalor Lab for Computational Cognitive Neurophysiology</a> in the University of Rochester. I am interested in the electrophysiology of human natural speech/language processing.
+Hi, I am currently a PhD candidate working at the <a href="https://www.urmc.rochester.edu/labs/lalor">Lalor Lab</a> for Computational Cognitive Neurophysiology in the University of Rochester. I am interested in the electrophysiology of human natural speech/language processing.
