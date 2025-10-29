@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
       .then(response => response.text())
       .then(text => {
         // Insert the text into the <p> tag
-        aboutTextContainer.textContent = text;
+        aboutTextContainer.innerHTML = text;
       })
       .catch(error => {
         console.error('There was an error loading the About Me text:', error);
